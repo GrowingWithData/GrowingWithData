@@ -12,8 +12,7 @@ I am a Software Engineering student with a specialization in Data Science and cu
   - Classification
 - 👯 I'm looking forward to collaborating on open-source projects focused on data analysis, machine learning, and automation
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+- Outside tech, 🎮 playing videogames, 🎵 listening to music, 🏀 playing basketball and 📖 reading science books.
 
 ## My Skills Include
 
