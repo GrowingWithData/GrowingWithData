@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="<iframe src="https://giphy.com/embed/IgLEFhGAt3giA9XMHk"  style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/capsoutreach-mentalhealth-pulsating-kiwithealien-IgLEFhGAt3giA9XMHk">***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Engineering student with a specialization in Data Science and currently work as a Data Analyst in a company dedicated to the sale of industrial safety equipment. My passion for continuous learning drives me to develop innovative technological solutions that optimize processes and generate value through data analysis. My goal is to consolidate my professional career as a Data Scientist, contributing with data-driven strategies that transform decision making.
 
